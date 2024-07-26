@@ -1,4 +1,4 @@
-This package provides a simple framework for managing asynchronous operations in dart.
+This package provides a simple framework for managing synchronous and asynchronous operations in dart.
 
 Results can either be a `Failure` containing a failure value or a `Success` containing a success value, ensuring type-safe handling of asynchronous outcomes.
 
